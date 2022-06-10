@@ -2,7 +2,7 @@
 
 [![N|Solid](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewelina-nieweglowska/)
 
-**📖 Currently learning the basics of programming. \ 🌱 Seeking more programming experience. \ 🔥 Open to new challenges.**
+**📖 Currently learning the basics of programming. <br /> 🌱 Seeking more programming experience. <br/> 🔥 Open to new challenges.**
 
 ## Languages and Tools
  
